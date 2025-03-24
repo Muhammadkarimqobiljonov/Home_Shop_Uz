@@ -1,0 +1,48 @@
+@media (max-width:415px){
+    .logo_html_img img{
+        width: 160px;
+    }
+    .box_logo_html{
+        margin-top: 290px;
+    } 
+    .main_first_logohtml h2{
+        font-size: 18px;
+        padding-bottom: 5px;
+    }
+    .main_boxs_logohtml img{
+        width: 120px;
+    }
+    .main_boxs_logohtml{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 30%;
+        padding-top: 70px;
+        margin: 0 auto;
+    }
+    .main_boxs_text_logohtml p{
+        font-size: 10px;
+        line-height: 14px;
+    }
+    .main_boxs_logohtml{
+        width: 95%;
+    }
+    .main_boxs_text_logohtml h2{
+        font-size: 18px;
+        padding-bottom: 5px;
+    }
+    .logo_html_img_two img{
+        width: 80%;
+    }
+    .section_start_logohtml{
+        margin-top: 50px;
+    }
+    
+
+
+
+
+
+}
+
+

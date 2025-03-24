@@ -1,0 +1,305 @@
+@media(max-width:415px){
+    .container{
+        width: 98%;
+        margin: 0 auto;
+    }
+    .head_navs{
+        display: none;
+    }
+    nav .logo{
+        width: 140px;
+    }
+    .head_drop{
+        display: block;
+        margin-right: 20px;
+    }
+    header{
+        height: 80px;
+    }
+    nav{
+        display: flex;
+        align-items: center;
+        height: 80px;
+    }
+    /* head_box */
+    .head_box{
+        margin-top: 23px;
+    }
+    .head_cards{
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        width: 100%;
+    }
+    .cards_box{
+        display: flex;
+        height: 140px;
+        align-items: center;
+        gap: 0px;
+    }
+    .head_cards{
+        height: 220px;
+    }
+    .cards_box_text h2{
+        font-size: 30px;
+        padding-top: 25px;
+        padding-bottom: 18px;
+    }
+    .first_text{
+        font-size: 12px;
+        padding-bottom: 20px;
+        padding-left: 2px;
+    }
+    .first_button{
+        font-size: 12px;
+        padding: 10px 20px;
+        position: relative;
+        top: 10px;
+    }
+    .cards_box_img img{
+        width: 100px;
+        margin-top: 40px;
+        
+    }
+    .three_cards_box{
+        gap: 30px;
+    }
+    .four_cards_box{
+        gap: 0px;
+    }
+    .six img{
+        width: 160px;
+    }
+    /* main */
+    .main_box{
+        margin-top: 260px
+    }
+    .main_boxs_{
+        width: 49%;
+        height: 440px;
+        margin-top: 20px;
+        border-radius: 5px;
+    }
+    .first_text_boxs{
+        height: 105px;
+        
+    }
+    .first_img_boxs img{
+        width: 90%;
+    }
+    .first_img_boxs{
+        height: 250px;
+        border-radius: 5px;
+    }
+    .texts_one{
+        font-size: 13px;
+    }
+    .texts_two{
+        font-size: 11px;
+    }
+    .sums{
+        font-size: 12px;
+    }
+    .shops{
+        width: 40px;
+    }
+    .three_main img{
+        width: 120%;
+    }
+    .four_main img{
+        width: 110%;
+    }
+    .new_ img{
+        width: 95%;
+    }
+    h1{
+        display: none;
+    }
+    .flex .main_boxs_{
+        width: 160px;
+        height: 440px;
+        border-radius: 3px;
+    }
+    .head_cards_main{
+        height: 460px;
+    }
+    .main_box_centers{
+        margin-top: 10px;
+    }
+    .br{
+        display: block;
+    }
+    .new_two img{
+        width: 80%;
+    }
+    .capitan_main_end{
+        margin-top: 10px;
+    }
+    .index_h2_start h2{
+        font-size: 16px;
+        padding-top: 14px;
+        padding-bottom: 0px;
+    }
+    .box_section_index_html{
+        margin-top: 5px;
+    }
+    .birinchi_first{
+        width: 100%;
+    }
+    .birinchi_wrapper{
+        width: 100%;
+        border-radius: 10px;
+        height: 300px;
+    }
+    .birinchi_card{
+        border-radius: 10px;
+        width: 50%;
+    }
+    .birinchi_img img{
+        width: 120px;
+    }
+    .uchinchi_birinchi_img img{
+        width: 200px;
+    }
+    .birinchi_box{
+        flex-wrap: wrap;
+    }
+    .birinchi_second{
+        width: 95%;
+        margin: 0 auto;
+        margin-top: 10px;
+        height: 450px;
+        padding-bottom: 10px;
+        margin-bottom: 10px;
+    }
+    .birinchi_text{
+        padding-right: 5px;
+        padding-left: 5px;
+    }
+    .birinchi_start p{
+        font-size: 17px;
+    }
+    .birinchi_center p{
+        font-size: 11px;
+    }
+    .birinchi_sums h2{
+        font-size: 20px;
+    }
+    .birinchi_end p{
+        font-size: 17px;
+        font-weight: bold;
+    }
+    .birinchi_html{
+        margin-top: 20px;
+    }
+    .birinchi_box{
+        margin-top: 20px;
+    }
+    .beshinchi_ img{
+        width: 60px;
+    }
+    .new_img_foot img{
+        width: 120px;
+    }
+    .news_window img{
+        width: 80px;
+    }
+    .news_window_two img{
+        width: 100px;
+    }
+    .new_kapkir img{
+        width: 150px;
+    }
+    .news_photos img{
+        width: 100px;
+    }
+    .img_22 img{
+        width: 100px;
+    }
+    .img_25 img{
+        width: 150px;
+    }
+    .section_aksiya{
+        margin-top: 10px;
+    }
+    .img_42 img{
+        width: 160px;
+    }
+    .img_44 img{
+        width: 160px;
+    }
+    .img_45 img{
+        width: 150px;
+    }
+    .img_46_ img{
+        width: 150px;
+    }
+    /* shorts */
+    .shorts_wrapper{
+        width: 90%;
+        height: 80%;
+    }
+    .shorts_card{
+        height: 400px;
+    }
+    .shorts_img img{
+        width: 60%;
+    }
+    /* location */
+    .location_box{
+        width: 100%;
+        height: 80vh;
+        border: 1px solid rgb(195, 195, 195);
+        border-radius: 10px;
+        margin-top: 30px;
+        box-shadow: 1px 1px 10px 0px rgb(172, 172, 172);
+        padding-top: 10px;
+        padding-right: 10px;
+        padding-bottom: 10px;
+        padding-left: 10px;
+    }
+    .location_first_box{
+        justify-content: space-between;
+        margin-top: 40px;
+    }
+    .location_one img{
+        width: 120px;
+    }
+    .location_two{
+        width: 50%;
+        text-align: center;
+    }
+    .location_h2 h2{
+        font-size: 15px;
+    }
+    .location_text p{
+        font-size: 11px;
+    }
+    .location_img_ img{
+        width: 230px;
+        
+    }
+    .vizitka_loca{
+        padding-top: 20px;
+    }
+    .two_location{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 50px;
+    }
+
+
+}
+
+
+@media(max-width:360px){
+    .texts_one{
+        font-size: 11px;
+        width: 90%;
+    }
+}
+
+
+
